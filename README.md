@@ -1,5 +1,5 @@
 ## hi i'm kathy!
-### a second year computer science student at uoft and an upcoming swe intern at microsoft
+a second year computer science student at uoft and an upcoming swe intern at microsoft
 
 
 <!---
